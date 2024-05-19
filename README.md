@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ergülü Bozkurt
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in artificial intelligence and data science
 - 🌱 I’m currently learning deep learning
 - 📫 You can reach me at my GitHub and ergulubozkurt5@gmail.com
 
